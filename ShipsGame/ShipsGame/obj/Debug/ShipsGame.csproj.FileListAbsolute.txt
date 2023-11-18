@@ -1,0 +1,11 @@
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.AssemblyReference.cache
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.Rozgrywka.resources
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Okna.UstawieniaStatkow.resources
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.Properties.Resources.resources
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.GenerateResource.cache
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe.config
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\bin\Debug\ShipsGame.exe
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\bin\Debug\ShipsGame.pdb
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.exe
+C:\Users\Komputer\Desktop\Lekcja_9_Semestr_2_C#\ShipsGame\ShipsGame\obj\Debug\ShipsGame.pdb
